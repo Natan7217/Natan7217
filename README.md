@@ -2,6 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/ff33dcdb-5f39-405d-a49a-2871614c6db0.svg)](https://wakatime.com/@ff33dcdb-5f39-405d-a49a-2871614c6db0)
 ![Discord](https://img.shields.io/badge/logo-%40natandev-rgb(48,54,61)?logo=discord&label=DMs%20open&labelColor=24262b&link=https://discord.com/users/766717680761045033)
+![Telegram](https://img.shields.io/badge/logo-%40wggvp-rgb(48,54,61)?logo=telegram&label=DMs%20open&labelColor=24262b&link=https://t.me/wggvp)
 ![hireable](https://img.shields.io/badge/hireable-5bc0de?logo=rocket&style=social&logoColor=6a737d&link=https://github.com/Natan7217)
 <!--
 **Natan7217/Natan7217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
